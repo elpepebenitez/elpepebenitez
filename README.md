@@ -23,3 +23,5 @@ Main focus is legal tech atm. Happy to talk or collaborate about using technolog
 If you would like to support my work at any point a coffee is always appreciated and will keep me energized 💪
 
 <a href="https://www.buymeacoffee.com/elpepebenitez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" alt="Buy Me A Coffee" style="height: 25px;width: 75px;" ></a>
+
+<!-- Poner ACTA y sostenibiliad + links a mi pag web + links a blogs (hashnode, codenewbie, dev, medium, etc.)-->
