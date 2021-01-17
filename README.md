@@ -2,19 +2,19 @@
 
 Greetings from Panama ☀️ I decided last year to do a career transition from Law, so I recently finished a web development coding bootcamp in London and I am taking my first steps in my path as a developer. I enjoy coding a lot, but I still have so much to learn! 👨‍🚀 
 
-##### Skills/languages
+#### Skills/languages
 
 Full Stack Dev. Ruby & Rails. Javascript & Vue. SQL. Firebase + Heroku. HTML & CSS.
 
-##### Learning/trying
+#### Learning/trying
 
 Currently learning a lot about Vue, Javascript and Firebase. Soon will be starting with React.
 
-##### Projects
+#### Projects
 
 I am currently working on my own projects related to legal tech and social impact.
 
-##### Available for...
+#### Available for...
 
 Main focus is legal tech atm. Happy to talk or collaborate about using technology to improve society, or talk to anyone thinking about making a career transition or joining a coding bootcamp.
 
