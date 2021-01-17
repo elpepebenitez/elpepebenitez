@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**elpepebenitez/elpepebenitez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Greetings from Panama ☀️ I decided last year to do a career transition from Law, so I recently finished a web development coding bootcamp in London and I am taking my first steps in my path as a developer. I enjoy coding a lot, but I still have so much to learn! 👨‍🚀 
 
-Here are some ideas to get you started:
+##### Skills/languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full Stack Dev. Ruby & Rails. Javascript & Vue. SQL. Firebase + Heroku. HTML & CSS.
+
+##### Learning/trying
+
+Currently learning a lot about Vue, Javascript and Firebase. Soon will be starting with React.
+
+##### Projects
+
+I am currently working on my own projects related to legal tech and social impact.
+
+##### Available for...
+
+Main focus is legal tech atm. Happy to talk or collaborate about using technology to improve society, or talk to anyone thinking about making a career transition or joining a coding bootcamp.
+
+<a href="https://twitter.com/elpepebenitez" target="_blank">Get in touch @elpepebenitez </a>
+
+If you would like to support my work at any point a coffee is always appreciated and will keep me energized 💪
+
+<a href="https://www.buymeacoffee.com/elpepebenitez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" alt="Buy Me A Coffee" style="height: 75px;width: 150px;" ></a>
