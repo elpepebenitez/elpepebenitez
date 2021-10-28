@@ -25,7 +25,8 @@ I also love to teach 🤓
 
 Happy to chat or collaborate about using technology to improve society, or talk to anyone thinking about making a career transition or joining a coding bootcamp.
 
-<a href="https://twitter.com/elpepebenitez" target="_blank">Get in touch @elpepebenitez </a>
+Get in touch<a href="https://twitter.com/elpepebenitez" target="_blank"> @elpepebenitez </a>
+
 
 <!-- If you would like to support my work at any point a coffee is always appreciated and will keep me energized 💪 -->
 
