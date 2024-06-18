@@ -1,6 +1,15 @@
 ### Hello World 👋
 
-Greetings from Panama ☀️ I decided to do a career transition from Law, so I took a web development coding bootcamp in London back in 2020 and embarked in my path as a developer. I enjoy coding a lot, but I still have so much to learn! 👨‍🚀 
+<!--- Greetings from Panama ☀️ -->
+In the crazy year of 2020 I decided to explore a career transition from Law and International Development, so I took a web development coding bootcamp in London and embarked in a path as a developer. It is one of the best decisions I have made! 
+
+Nowadays I combine my formal background and my technical skills to better understand the world around me, and come up with solutions to problems 👨‍🚀
+
+Currently I am a Chevening Scholar studying a MSc in Development Management with a specialism in Applied Development Economics at The London School of Economics and Political Science 🤓
+
+Happy to chat or collaborate about using technology to improve society, or talk to anyone thinking about making a career transition or joining a coding bootcamp.
+
+Get in touch<a href="https://twitter.com/elpepebenitez" target="_blank"> @elpepebenitez </a>
 
 <!---
 #### Skills/languages
