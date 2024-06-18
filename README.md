@@ -2,6 +2,7 @@
 
 Greetings from Panama ☀️ I decided to do a career transition from Law, so I took a web development coding bootcamp in London back in 2020 and embarked in my path as a developer. I enjoy coding a lot, but I still have so much to learn! 👨‍🚀 
 
+<!---
 #### Skills/languages
 
 Full Stack Dev. React & Vue. Ruby & Rails. Node & Express. SQL & Mongo. Firebase + Heroku. Javascript, HTML & CSS.
@@ -26,7 +27,7 @@ I also love to teach 🤓
 Happy to chat or collaborate about using technology to improve society, or talk to anyone thinking about making a career transition or joining a coding bootcamp.
 
 Get in touch<a href="https://twitter.com/elpepebenitez" target="_blank"> @elpepebenitez </a>
-
+-->
 
 <!-- If you would like to support my work at any point a coffee is always appreciated and will keep me energized 💪 -->
 
